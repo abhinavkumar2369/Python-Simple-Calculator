@@ -49,14 +49,24 @@
 - A simple and short calculator written in Python.
 - This program performs basic arithmetic operations. It can add, subtract, multiply, and divide numbers..
 
+
+<!------------------------------------------------->
+
+
 ## Features 🚀
 
 - **Easy to Use:** Straightforward Graphical User Interface.
 - **Compatible:** Can run over cross platform. 
 
 
+<!------------------------------------------------->
+
+
 ## Screenshot 🖼️
 ![Python Simple Calculator](https://github.com/abhinav2369/Python-Simple-Calculator/assets/170245635/f0e063e4-54bc-4fa0-abf3-6f71c3899bbd)
+
+
+<!------------------------------------------------->
 
 
 ## Installation ⚒️
@@ -71,6 +81,8 @@
    cd Python-Simple-Calculator
    ```
 
+<!------------------------------------------------->
+
 
 ## Usage 🤖
 
@@ -82,6 +94,12 @@
 
 <!------------------------------------------------->
 
+
+## Attribution 🙏
+- Logo Image used in the Repository belong to the [SVG Repo](https://www.svgrepo.com/) Website.
+
+
+<!------------------------------------------------->
 
 ## Contributions 🧑‍💻
 Contributions are welcome! Please feel free to submit issues and pull requests.
