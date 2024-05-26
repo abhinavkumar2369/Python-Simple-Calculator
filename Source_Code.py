@@ -1,8 +1,21 @@
 # Importing Tkinter Module
 from tkinter import *
 from PIL import Image, ImageTk
+
+
 # Creating Instance of the Window
 window = Tk()
+
+
+# --------------------------------------------------------------
+
+# Ensure High DPI awareness on Windows
+try:
+    from ctypes import windll
+    windll.shcore.SetProcessDpiAwareness(1)
+except:
+    pass
+
 
 # -----------------  Title & Dimensions  -------------------------
 
