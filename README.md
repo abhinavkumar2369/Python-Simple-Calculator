@@ -1,6 +1,6 @@
 <div align="center">
      <h1 align="center">Python Simple Calculator</h1>
-     <img src="https://github.com/abhinav2369/Python-Simple-Calculator/assets/170245635/70faf101-596e-4c37-83af-bf9b2cc54532" height=90px width=90px/>
+     <img src="https://github.com/abhinavkumar2369/Python-Simple-Calculator/assets/170245635/a958f7e8-8282-4f65-b9f7-db519785d318" height=90px width=90px/>
      <br/>
      <br/>
      <img alt="Static Badge" src="https://img.shields.io/badge/Python-7F00FF?style=for-the-badge">
@@ -20,24 +20,24 @@
      <!-- --------------------------------------------- -->
      <br/>
      <!-- License -->
-     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinav2369/Python-Simple-Calculator">
+     <img alt="GitHub License" src="https://img.shields.io/github/license/abhinavkumar2369/Python-Simple-Calculator">
      <br/>
      <!-- Commit Count -->
-     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinav2369/Python-Simple-Calculator/main">
+     <img alt="GitHub commit activity (branch)" src="https://img.shields.io/github/commit-activity/t/abhinavkumar2369/Python-Simple-Calculator/main">
      <!-- Repo Size -->
-     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinav2369/Python-Simple-Calculator?style=flat&color=orange">
+     <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/abhinavkumar2369/Python-Simple-Calculator?style=flat&color=orange">
      <!-- Repo Code -->
-     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinav2369/Python-Simple-Calculator">
+     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abhinavkumar2369/Python-Simple-Calculator">
      <br/>
-     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinav2369/Python-Simple-Calculator?style=flat&color=orange">
+     <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/abhinavkumar2369/Python-Simple-Calculator?style=flat&color=orange">
      <!-- Language Count -->
-     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinav2369/Python-Simple-Calculator">
+     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/abhinavkumar2369/Python-Simple-Calculator">
      <!-- Watchers -->
-     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinav2369/Python-Simple-Calculator?style=flat">
+     <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/abhinavkumar2369/Python-Simple-Calculator?style=flat">
      <!-- Forks -->
-     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinav2369/Python-Simple-Calculator?style=flat&color=orange">
+     <img alt="GitHub forks" src="https://img.shields.io/github/forks/abhinavkumar2369/Python-Simple-Calculator?style=flat&color=orange">
      <br/>
-     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinav2369/Python-Simple-Calculator">
+     <img alt="GitHub Release" src="https://img.shields.io/github/v/release/abhinavkumar2369/Python-Simple-Calculator">
 </div>
 
 
@@ -63,7 +63,7 @@
 
 
 ## Screenshot 🖼️
-![Python Simple Calculator](https://github.com/abhinav2369/Python-Simple-Calculator/assets/170245635/f0e063e4-54bc-4fa0-abf3-6f71c3899bbd)
+![Python Simple Calculator](https://github.com/abhinavkumar2369/Python-Simple-Calculator/assets/170245635/b294561e-383e-4afd-b716-e3ab97423beb)
 
 
 <!------------------------------------------------->
@@ -73,7 +73,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhinav2369/Python-Simple-Calculator.git
+   git clone https://github.com/abhinavkumar2369/Python-Simple-Calculator.git
    ```
    
 2. Navigate to the project directory:
@@ -100,6 +100,7 @@
 
 
 <!------------------------------------------------->
+
 
 ## Contributions 🧑‍💻
 Contributions are welcome! Please feel free to submit issues and pull requests.
